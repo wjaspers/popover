@@ -1,6 +1,6 @@
 import { Component, ViewChild } from '@angular/core';
 import { FormGroup, FormBuilder } from '@angular/forms';
-import { SatPopoverComponent } from '@ncstate/sat-popover';
+import { SatPopoverComponent } from '@wjaspers/sat-popover';
 
 @Component({
   selector: 'demo-focus',

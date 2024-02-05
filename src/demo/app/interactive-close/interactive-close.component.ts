@@ -1,6 +1,6 @@
 import { AfterViewInit, Component, ElementRef, OnDestroy, ViewChild } from '@angular/core';
 import { ESCAPE } from '@angular/cdk/keycodes';
-import { SatPopoverComponent } from '@ncstate/sat-popover';
+import { SatPopoverComponent } from '@wjaspers/sat-popover';
 import { Subject, merge } from 'rxjs';
 import { filter, takeUntil } from 'rxjs/operators';
 
